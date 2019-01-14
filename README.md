@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.ha-excited:localeutil:0.1'
+    implementation 'com.github.ha-excited:localeutil:0.1.1'
 }
 ```
 
